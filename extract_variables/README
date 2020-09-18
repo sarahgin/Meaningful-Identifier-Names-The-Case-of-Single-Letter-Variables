@@ -1,0 +1,16 @@
+# Parsing vars 
+
+## Deps
+
+1. python
+1. mongodb
+1. nodejs
+1. php
+1. composer
+1. PHPParser
+
+## Install 
+
+1. PHPParser  - run `composer install`  at `extractors/php`
+1. pymongo ( install via pip)
+   python -m pip install pymongo

@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+__all__ = ['c', 'perl', 'java', 'javascript']
+=======
+__all__ = ['c', 'perl', 'java','javascript']
+>>>>>>> 973688f883602149179554d23a1c97651b264545
